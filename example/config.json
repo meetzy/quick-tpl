@@ -1,0 +1,10 @@
+{
+  "docker": {
+    "name": "nginx",
+    "version": "1.17.8"
+  },
+  "k8s": {
+    "name": "nginx-pod",
+    "namespace": "test"
+  }
+}
